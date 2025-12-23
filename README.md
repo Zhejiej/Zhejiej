@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I’m Jacky Jiang</h2>
 
 <p align="center">
-  Computer science–focused student building web and backend systems.<br/>
+  Computer Science and Data Science major<br/>
   <a href="https://zhejiej.github.io/NewPersonal/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/zhejie-jiang-9b7451284/">LinkedIn</a>
 </p>
