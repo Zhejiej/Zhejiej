@@ -1,9 +1,10 @@
 <h2 align="center">Hi, I’m Jacky Jiang</h2>
 
 <p align="center">
-  Computer Science and Data Science major<br/>
-  <a href="https://zhejiej.github.io/NewPersonal/">Portfolio</a> ·
+  Computer Science and Data Science major at the University of Chicago focusing on software engineering. <br/>
+  <a href="https://zhejiej.github.io/NewPersonal/">Portfolio</a>
   <a href="https://www.linkedin.com/in/zhejie-jiang/">LinkedIn</a>
+  <a href="mailto:zhejiejiang@gmail.com">Email</a>
 </p>
 
 ---
@@ -17,7 +18,7 @@
 
 <p>
   <strong>Frameworks & Libraries</strong><br/>
-  Django · React · Node.js · PyTorch · Pandas
+  Django · React · Node.js · PyTorch · Pandas · Numpy · Matplotlib  
 </p>
 
 <p>
