@@ -2,8 +2,8 @@
 
 <p align="center">
   Computer Science and Data Science major at the University of Chicago focusing on software engineering. <br/>
-  <a href="https://zhejiej.github.io/NewPersonal/">Portfolio</a>
-  <a href="https://www.linkedin.com/in/zhejie-jiang/">LinkedIn</a>
+  <a href="https://zhejiej.github.io/NewPersonal/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/zhejie-jiang/">LinkedIn</a> ·
   <a href="mailto:zhejiejiang@gmail.com">Email</a>
 </p>
 
